@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PIN_trace.cpp", "PIN_trace.cpp\PIN_trace.cpp.vcproj", "{70F63B8D-F405-4451-BB01-E6AE09BF8B07}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PIN_hit_tracer", "PIN_hit_tracer\PIN_hit_tracer.vcproj", "{BA09EDBD-6D28-4C98-9C74-7986104B0A6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70F63B8D-F405-4451-BB01-E6AE09BF8B07}.Debug|Win32.ActiveCfg = Debug|Win32
+		{70F63B8D-F405-4451-BB01-E6AE09BF8B07}.Debug|Win32.Build.0 = Debug|Win32
+		{70F63B8D-F405-4451-BB01-E6AE09BF8B07}.Release|Win32.ActiveCfg = Release|Win32
+		{70F63B8D-F405-4451-BB01-E6AE09BF8B07}.Release|Win32.Build.0 = Release|Win32
+		{BA09EDBD-6D28-4C98-9C74-7986104B0A6C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BA09EDBD-6D28-4C98-9C74-7986104B0A6C}.Debug|Win32.Build.0 = Debug|Win32
+		{BA09EDBD-6D28-4C98-9C74-7986104B0A6C}.Release|Win32.ActiveCfg = Release|Win32
+		{BA09EDBD-6D28-4C98-9C74-7986104B0A6C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
